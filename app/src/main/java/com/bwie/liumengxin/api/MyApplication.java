@@ -5,7 +5,6 @@ import android.app.Application;
 import com.facebook.drawee.backends.pipeline.Fresco;
 
 /**
- * autor:刘梦欣
  * date：2017/11/20
  * 用途：
  */

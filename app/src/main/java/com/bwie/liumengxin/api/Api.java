@@ -3,7 +3,6 @@ package com.bwie.liumengxin.api;
 import java.util.Random;
 
 /**
- * autor:刘梦欣
  * date：2017/11/20
  * 用途：
  */
